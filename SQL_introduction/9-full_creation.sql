@@ -1,3 +1,4 @@
+-- creates a table and add records to it
 USE hbtn_0c_0;
 
 CREATE TABLE IF NOT EXISTS second_table(
